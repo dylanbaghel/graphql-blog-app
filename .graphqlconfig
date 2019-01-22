@@ -1,0 +1,13 @@
+{
+    "projects": {
+        "hope": {
+            "schemaPath": "src/generated/prisma.graphql",
+            "extensions": {
+                "prisma": "hope/prisma.yml",
+                "endpoints": {
+                    "default": "http://192.168.99.100:4466"
+                }
+            }
+        }
+    }
+}
